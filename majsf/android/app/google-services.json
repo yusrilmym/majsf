@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "514364331726",
+    "firebase_url": "https://majsf-99c6f.firebaseio.com",
+    "project_id": "majsf-99c6f",
+    "storage_bucket": "majsf-99c6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514364331726:android:8e6c78a358c9e8ffe2629f",
+        "android_client_info": {
+          "package_name": "com.example.majsf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514364331726-gmra8s5o36286oj7dl78coq8bk4pf108.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.majsf",
+            "certificate_hash": "7b63e780ee262ca137a0f5739b760fa06591dda4"
+          }
+        },
+        {
+          "client_id": "514364331726-dasv6vq8g2qbgacbck7dim58sl7pasmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcNAGuqR9LxQBEDS4q8sCjzp8FpCemHWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514364331726-dasv6vq8g2qbgacbck7dim58sl7pasmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
